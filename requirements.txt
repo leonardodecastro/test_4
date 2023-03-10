@@ -1,4 +1,4 @@
-matplotlib-base
+matplotlib
 pandas
 ipywidgets
 jupyterlab>=3.1
