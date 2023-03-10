@@ -1,0 +1,7 @@
+ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1610481889018/work
+
+pandas==1.5.3
+plotly==5.1.0
+matplotlib==3.6.2
+voila>=0.2.11
+jupyterlab==3.0.14
