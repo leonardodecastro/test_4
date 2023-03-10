@@ -1,6 +1,6 @@
-matplotlib==3.6.2
-pandas==1.5.3
-ipywidgets==7.6.3
+matplotlib-base
+pandas
+ipywidgets
 jupyterlab>=3.1
 voila>=0.2.11
 plotly==5.1.0
